@@ -1,6 +1,6 @@
 deployment:
   replicas: 4
-  imageVersion: 1.31.3-trixie
+  imageVersion: 1.31.3-alpine
 
 service:
   type: ClusterIP
